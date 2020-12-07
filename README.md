@@ -1,6 +1,6 @@
 # api-employees
 
-API Rest Employee with NodeJS, express and MySQL
+API Rest Employee with NodeJS, Express and MySQL
 
 
 # Prerequisites
